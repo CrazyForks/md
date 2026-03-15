@@ -1,0 +1,1 @@
+import"./md-vendor_aws-sdk_client-s3-CbKGA0Wo.js";import{t as e}from"./md-vendor_smithy_core-D2sl4ZUB.js";export{e as EventStreamSerde};
